@@ -1,2 +1,2 @@
-#My App
-This is my app
+# My App
+This is my testing app for education
